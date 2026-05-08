@@ -358,6 +358,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://nycpropertyintel.com/assets/favicon.svg" height="14"/> [NYC Property Intel](https://github.com/ccedacero/nyc-property-intel) - MCP server giving Claude AI access to 22+ NYC public-record databases (DOB violations, HPD complaints, ECB violations, ACRIS deeds, DOF sales, 311 complaints, FDNY incidents, NYPD complaints, marshal evictions, PLUTO, etc.) for NYC real estate due diligence.
 
 <br />
 
